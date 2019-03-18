@@ -1,5 +1,7 @@
 # Coffee_website-
-A simple html coffee website I did in freelance. Totally from scratch
-
-pure css and js- no material design.
+This is a simple html coffee website I did in freelance. 
+it is totally from scratch and has no material design.
+  pure css 
+  HTML5
+  and js.
 
